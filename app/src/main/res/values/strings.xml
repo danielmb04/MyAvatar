@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Avatar</string>
+    <string name="Texto1">Pulsa empezar para crear tu avatar</string>
+    <string name="btnEmpezar">Empezar</string>
+    <string name="btnResetear">Resetear</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="IntroduceTuNombre">Introduce tu nombre</string>
+    <string name="EnBlanco"></string>
+<!-- TODO: Remove or change this placeholder text -->
+
+    <string name="sexoHombre">Hombre</string>
+    <string name="sexoMujer">Mujer</string>
+
+    <string name="specieElfo">Elfo</string>
+    <string name="specieHumano">Humano</string>
+    <string name="specieHobbit">Hobbit</string>
+    <string name="specieEnano">Enano</string>
+    
+    <string name="profesionArquero">Arquero</string>
+    <string name="profesionGuerrero">Guerrero</string>
+    <string name="profesionMago">Mago</string>
+    <string name="profesionHerrero">Herrero</string>
+    <string name="profesionMinero">Minero</string>
+
+</resources>
